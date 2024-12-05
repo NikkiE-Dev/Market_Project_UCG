@@ -1,8 +1,27 @@
-.header {
+header {
     position: sticky;
     top: 0;
     left: 0;
     padding: 10px 16px;
     background: #9c267a;
     color: #0c0303;
+  }
+  .item-container{
+
+  }
+  .item-card{
+
+  }
+  .item-header{
+
+  }
+  .item-footer{
+
+  }
+  .item-container .item-card img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border: 5px solid coral;
   }
