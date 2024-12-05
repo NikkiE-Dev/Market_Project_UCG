@@ -1,6 +1,7 @@
 .header {
     position: sticky;
     top: 0;
+    left: 0;
     padding: 10px 16px;
     background: #9c267a;
     color: #0c0303;
